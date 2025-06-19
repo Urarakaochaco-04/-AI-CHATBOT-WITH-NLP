@@ -67,4 +67,7 @@ The final chatbot is easy to use, looks simple, and gives decent answers to gene
 * Helps understand how chatbots work at a basic level.
 * Useful as a mini search assistant.
 
+# OUTPUT :
+![Image](https://github.com/user-attachments/assets/24810fc2-b5db-45a9-81a2-6ecac17091cb)
+
 
