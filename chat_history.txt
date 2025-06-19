@@ -1,0 +1,15 @@
+[2025-06-19 11:27:26] You: Tell me about Codetech IT solutions
+[2025-06-19 11:27:26] Bot: I couldn't find an answer. Try asking something else.
+
+[2025-06-19 11:27:48] You: Vishwa Vishwani Institute Of System and Management
+[2025-06-19 11:27:48] Bot: I couldn't find an answer. Try asking something else.
+
+[2025-06-19 11:28:05] You: Python
+[2025-06-19 11:28:05] Bot: The Pythonidae, commonly known as pythons, are a family of nonvenomous  snakes found in Africa, Asia, and Australia. Among its members are some of the largest snakes in the world.
+
+[2025-06-19 12:04:48] You: Burj khalifa is located in
+[2025-06-19 12:04:48] Bot: The Burj Khalifa (known as the Burj Dubai prior to its inauguration) is a megatall skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m (2,722 ft, or just over half a mile) and a roof height (excluding the antenna, but including a 242.6 m spire) of  828 m (2,717 ft), it is the world's tallest structure.
+
+[2025-06-19 12:05:07] You: What is a Python
+[2025-06-19 12:05:07] Bot: Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+
